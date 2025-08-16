@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nando\\Desktop\\Code\\harmonika\\harmonika\\backend\\Models\\HarmonikaModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90BC8A8-E387-4960-B72D-B9B945733B55}|HarmonikaModels\\HarmonikaModels.csproj|c:\\users\\nando\\desktop\\code\\harmonika\\harmonika\\backend\\models\\harmonikamodels\\harmonikamodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90BC8A8-E387-4960-B72D-B9B945733B55}|HarmonikaModels\\HarmonikaModels.csproj|solutionrelative:harmonikamodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nando\\Desktop\\Code\\harmonika\\harmonika\\backend\\Models\\HarmonikaModels\\HarmonikaModels\\Class1.cs",
+              "RelativeDocumentMoniker": "HarmonikaModels\\Class1.cs",
+              "ToolTip": "C:\\Users\\nando\\Desktop\\Code\\harmonika\\harmonika\\backend\\Models\\HarmonikaModels\\HarmonikaModels\\Class1.cs",
+              "RelativeToolTip": "HarmonikaModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:25:46.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
