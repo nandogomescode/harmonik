@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XYai4gUs7x9vx73jgn1GcTvpxemzWPRoxfsrOrvaE+M=",
+  "Source": "HarmonikWS_API",
+  "BasePath": "_content/HarmonikWS_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

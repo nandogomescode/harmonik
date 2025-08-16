@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "HarmonikWS_API.Controllers.Harmonik",
+    "Method": "Get1",
+    "RelativePath": "Harmonik/Get1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HarmonikWS_API.Controllers.HarmonikWS",
+    "Method": "Get1",
+    "RelativePath": "HarmonikWS/Get1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
