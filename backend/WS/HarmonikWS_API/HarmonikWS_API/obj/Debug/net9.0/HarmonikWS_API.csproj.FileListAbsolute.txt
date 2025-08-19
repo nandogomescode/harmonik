@@ -83,3 +83,5 @@ C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\Harmon
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\HarmonikWS_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\HarmonikWS_API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\HarmonikWS_API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\HarmonikWS_API\bin\Debug\net9.0\HarmonikData.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\WS\HarmonikWS_API\HarmonikWS_API\bin\Debug\net9.0\HarmonikData.pdb

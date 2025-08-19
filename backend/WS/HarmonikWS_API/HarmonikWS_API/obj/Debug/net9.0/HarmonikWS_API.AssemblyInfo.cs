@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarmonikWS_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950b73e849593769ab33859c501fde2b2d198868")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc51667ef11b1c72b18046ad384fd45fa45d052d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarmonikWS_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarmonikWS_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

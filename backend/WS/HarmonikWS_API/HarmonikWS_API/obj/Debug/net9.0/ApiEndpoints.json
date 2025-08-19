@@ -11,8 +11,8 @@
   },
   {
     "ContainingType": "HarmonikWS_API.Controllers.HarmonikWS",
-    "Method": "Get1",
-    "RelativePath": "HarmonikWS/Get1",
+    "Method": "GetNota",
+    "RelativePath": "HarmonikWS/GetNota",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

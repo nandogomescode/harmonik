@@ -1,0 +1,12 @@
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\bin\Debug\net9.0\HarmonicModels.deps.json
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\bin\Debug\net9.0\HarmonicModels.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\bin\Debug\net9.0\HarmonicModels.pdb
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.AssemblyInfoInputs.cache
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.AssemblyInfo.cs
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.sourcelink.json
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\refint\HarmonicModels.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\HarmonicModels.pdb
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Models\HarmonicModels\HarmonicModels\obj\Debug\net9.0\ref\HarmonicModels.dll

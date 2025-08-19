@@ -10,4 +10,13 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="HarmonicModels">
+      <HintPath>..\..\..\Models\HarmonicModels\HarmonicModels\bin\Debug\net9.0\HarmonicModels.dll</HintPath>
+    </Reference>
+    <Reference Include="HarmonikData">
+      <HintPath>..\..\..\Data\HarmonikData\HarmonikData\bin\Debug\net9.0\HarmonikData.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

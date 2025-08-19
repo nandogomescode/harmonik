@@ -11,3 +11,6 @@ C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicService
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\obj\Debug\net9.0\refint\HarmonicServices.dll
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\obj\Debug\net9.0\HarmonicServices.pdb
 C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\obj\Debug\net9.0\ref\HarmonicServices.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\bin\Debug\net9.0\HarmonikData.dll
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\bin\Debug\net9.0\HarmonikData.pdb
+C:\Users\nando\Desktop\Code\harmonika\harmonika\backend\Services\HarmonicServices\HarmonicServices\obj\Debug\net9.0\Harmonic.85E8D1BF.Up2Date

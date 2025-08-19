@@ -440,6 +440,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "HarmonikData/1.0.0.0": {
+        "runtime": {
+          "HarmonikData.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -688,6 +696,11 @@
       "hashPath": "system.text.json.9.0.5.nupkg.sha512"
     },
     "HarmonicServices/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HarmonikData/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

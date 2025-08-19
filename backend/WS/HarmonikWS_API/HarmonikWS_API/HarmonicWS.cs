@@ -12,14 +12,36 @@ namespace HarmonikWS_API.Controllers
     public class HarmonikWS : ControllerBase
     {
 
-        [Route("Get1")]
+        [Route("GetNotas")]
         [HttpGet]
-        public IActionResult Get1()
+        public IActionResult GetNotas()
         {
 
             Notes nt = new Notes();
 
             return Ok(nt.GetNotas());
+
+        }
+
+        [Route("GetNota")]
+        [HttpGet]
+        public IActionResult GetNota()
+        {
+
+
+            return Ok(0);
+
+
+        }
+
+        [Route("GetHarmonicProgression")]
+        [HttpGet]
+        public IActionResult GetHarmonicProgression()
+        {
+
+
+
+            return Ok(0);
 
         }
 
