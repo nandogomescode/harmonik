@@ -1,10 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HarmonikData{
 
@@ -53,7 +48,7 @@ namespace HarmonikData{
                 using(SqlDataReader reader = command.ExecuteReader())
                 {
 
-                    //reader.
+                    
 
                 }
 
@@ -83,6 +78,36 @@ namespace HarmonikData{
 
 
 
+
+        }
+
+        public void Excecute()
+        {
+
+
+
+        }
+
+        public DataTable Query(string query)
+        {
+
+            DataTable outParam = new DataTable();            
+
+            using(SqlConnection connection = new SqlConnection(this._connectionString))
+            using(SqlCommand command = new SqlCommand(query, connection))
+            {
+
+                connection.Open();
+
+                using(SqlDataReader reader = command.ExecuteReader())
+                {
+
+                    outParam.Load(reader);
+
+                }
+            }
+
+            return outParam;            
 
         }
 
